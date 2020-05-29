@@ -1,0 +1,16 @@
+#content{
+    background-color:aliceblue;
+    min-height: 550px;
+    overflow: auto;
+    width: 1000px;
+    margin: auto;
+}
+.thumbnail{
+    background-color: white;
+    text-align: center;
+    padding: 8px;
+    width: 300px;
+    margin: 15px;
+    float: left;
+    box-shadow: 10px 10px 5px grey;
+}

@@ -1,0 +1,15 @@
+
+.jumbotronnya{
+    background-image: url('green-scale-model-car-on-brown-pavement-35967.jpg');
+    background-size: 100% 135%;
+    background-position: center;
+    margin-bottom: 10 px;
+    background-attachment: fixed;
+}
+.jumbotron{
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background: rgba(120, 120, 120, 0.6);
+    color: white;
+}
